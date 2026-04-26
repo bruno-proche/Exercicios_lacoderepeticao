@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    int valor, num = 1, resultado;
+    int valor, num = 0, resultado;
     cout<<"Digite um valor de 0 a 10: ";
     cin>>valor;
     cout<<"\nTABUADA DO: "<<valor<<endl<<endl;
